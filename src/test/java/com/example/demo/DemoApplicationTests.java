@@ -9,6 +9,9 @@ class DemoApplicationTests {
 	@Test
 	void contextLoads() {
 		String hola, que;
+		int 12;
+		int 15;
+		int 8;
 	}
 
 }
